@@ -6,7 +6,7 @@
   
 - '' https://github.com/onuradiation/kodluyoruzilkrepo.git''
 
-## Uage
+## Usage
 - Projeyi cloneladıktan sonra Visual Studio Code programında açınız.
 - Linux için:
 -     ''cd kodluyoruzilkrepo
