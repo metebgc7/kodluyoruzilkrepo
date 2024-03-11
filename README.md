@@ -4,7 +4,7 @@
 ## Installation
 - Öncelikle projeyi clonelayın.
   
-- '' https://github.com/onuradiation/kodluyoruzilkrepo.git''
+- '' https://github.com/metebgc7/kodluyoruzilkrepo.git''
 
 ## Usage
 - Projeyi cloneladıktan sonra Visual Studio Code programında açınız.
